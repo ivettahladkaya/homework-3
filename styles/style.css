@@ -1,0 +1,152 @@
+.content {
+    background-color: #ffffff;
+    font-family: "OpenSans", sans-serif;
+    font-weight: 400;
+    max-width: 1400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.awesome-block__title {
+    text-transform: uppercase;
+    font-size: 36px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #212121;
+    margin-bottom: 30px;
+    margin-top: 108px;
+}
+
+.awesome-block__line {
+    border: none;
+    margin-bottom: 30px;
+    background-color: #ff8c2c;
+    height: 2px;
+    width: 64px;
+}
+
+.awesome-block__description {
+  font-size: 14px;
+  color: #86878b;
+  margin-bottom: 104px;
+}
+
+.advantages-block__list__item {
+  display: inline-block;
+}
+
+.advantages-block__list__item__title {
+   font-size: 20px;
+   font-weight: 700;
+   color: #333333;
+   margin-bottom: 25px;
+}
+
+.advantages-block__list__item__description {
+  width: 350px;
+  font-size: 14px;
+  color: #86878b;
+  margin: 25px 32px;
+  padding-bottom: 105px; 
+}
+
+img.advantages-block__list__item__lamp {
+    width: 19px;
+    height: 28px;
+    padding: 21px 26px 21px 25px;
+}
+
+img.advantages-block__list__item__keyboard {
+    width: 35px;
+    height: 21px;
+    padding: 24px 18px 25px 17px;
+}
+
+img.advantages-block__list__item__lightning {
+    width: 17px;
+    height: 31px;
+    padding: 19px 27px 20px 26px;
+}
+
+ .advantages-block__list__item__lamp, 
+ .advantages-block__list__item__keyboard,
+ .advantages-block__list__item__lightning {    
+    border: 1px solid #ff8c2c;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.container {
+    background-color: #ffffff;
+    font-family: "OpenSans", sans-serif;
+    max-width: 1400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.design-block {
+    background: url(../images/background.png), #000000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1400px;
+    background-position: cover;
+}
+
+.design-block__title {
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300px;
+    font-size: 36px;
+    text-transform: uppercase;
+    padding-bottom: 26px ;
+    padding-top: 73px;
+}
+
+.design-block__description {
+    opacity: 0.8;
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    padding-bottom: 48px;
+}
+
+.design-block__line {
+    border: none;
+    background-color: #ffffff;
+    width: 65px;
+    height: 2px;
+    margin-bottom: 23px;
+}
+
+.design-block__button__a {
+   text-decoration: none;
+    border: 1px solid #ffffff;
+    padding: 15px 33px 14px 31px;
+    display: inline-block;
+    color: #ffffff;
+    margin-bottom: 77px;
+}
+
+.footer__list__item {
+    display: inline-block;
+    padding-bottom: 15px;
+    padding-top: 38px;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.footer__copyright {
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+
+.design-block__button__a:hover {
+    box-shadow: 0 0 15px rgba(0,0,4,0.7);
+    color: #ff8c2c;
+   }
